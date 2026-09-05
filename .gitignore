@@ -1,0 +1,29 @@
+# Ваши ключи и логины — никогда не уезжают в git
+auth/
+scripts/.f2-brand.json
+scripts/.niche.json
+scripts/.hiker-config.json
+scripts/.rapidapi-config.json
+scripts/.telegram-config.json
+scripts/.backup-config.json
+.mcp.json
+.env
+
+# Рабочие файлы и результаты
+workspace/refs/
+workspace/carousel/
+workspace/guides/
+workspace/reels/
+workspace/trends/
+workspace/assets/photos/author/*
+!workspace/assets/photos/author/.gitkeep
+
+# Сайт
+site/node_modules/
+site/.next/
+site/.vercel/
+site/next-env.d.ts
+
+node_modules/
+*.log
+scripts/.flow-geo.json

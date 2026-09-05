@@ -1,0 +1,4 @@
+{
+  "_comment": "Скопируй в scripts/.hiker-config.json (делает /setup). Ключ: hikerapi.com → Tokens",
+  "hikerApiKey": "ВСТАВЬ_СВОЙ_КЛЮЧ"
+}

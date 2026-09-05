@@ -1,0 +1,7 @@
+{
+  "_comment": "Скопируй в scripts/.f2-brand.json и заполни своими данными (это делает /setup)",
+  "brand": "Моя Студия",
+  "handle": "@my_studio",
+  "authorPhoto": "workspace/assets/photos/author/author.jpg",
+  "faceDescription": "a man ~30, short dark hair, light stubble beard, warm confident smile"
+}

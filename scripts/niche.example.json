@@ -1,0 +1,6 @@
+{
+  "_comment": "Копируется в scripts/.niche.json мастером /setup. Доноры — аккаунты вашей ниши без @, хэштеги — без решётки.",
+  "donors": ["akkaunt_konkurenta", "eshche_odin"],
+  "hashtags": ["нейросети", "aiагент"],
+  "language": "ru"
+}

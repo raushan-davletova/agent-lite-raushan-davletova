@@ -1,0 +1,10 @@
+{
+  "brand": "Моя Студия",
+  "tagline": "Гайды и разборы: нейросети, агенты, контент",
+  "description": "Практические разборы инструментов и пошаговые гайды — без воды, с реальными источниками.",
+  "handle": "@my_studio",
+  "instagram": "https://instagram.com/my_studio",
+  "telegram": "",
+  "domain": "",
+  "accentNote": "Акцентный цвет и палитра — tailwind.config.ts"
+}
