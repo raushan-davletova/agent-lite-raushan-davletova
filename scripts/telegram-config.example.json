@@ -1,5 +1,5 @@
 {
   "_comment": "Скопируй в scripts/.telegram-config.json (это делает /setup). botToken — у @BotFather, chatIds — id чатов для ревью-постинга (узнать: @userinfobot)",
-  "botToken": "1234567890:AA...",
-  "chatIds": ["-1001234567890"]
+  "botToken": "xxx",
+  "chatIds": ["ova_info_bot"]
 }

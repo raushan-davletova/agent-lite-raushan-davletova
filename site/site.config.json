@@ -1,10 +1,10 @@
 {
-  "brand": "Моя Студия",
+  "brand": "davletova_info",
   "tagline": "Гайды и разборы: нейросети, агенты, контент",
   "description": "Практические разборы инструментов и пошаговые гайды — без воды, с реальными источниками.",
-  "handle": "@my_studio",
-  "instagram": "https://instagram.com/my_studio",
+  "handle": "@davletova_ai_kursy",
+  "instagram": "https://instagram.com/davletova_ai_kursy",
   "telegram": "",
-  "domain": "",
+  "domain": "site-seven-jade-43.vercel.app",
   "accentNote": "Акцентный цвет и палитра — tailwind.config.ts"
 }
